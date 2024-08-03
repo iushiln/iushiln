@@ -1,11 +1,4 @@
-<h3>Hello there , I,m ŞELAN <script src="https://cdn.lordicon.com/lordicon.js"></script>
-<lord-icon
-    src="https://cdn.lordicon.com/bqkijzun.json"
-    trigger="hover"
-    stroke="bold"
-    colors="primary:#a866ee,secondary:#8930e8"
-    style="width:250px;height:250px">
-</lord-icon> </h3>
+<h3>Hello there , I,m ŞELAN 😊 </h3>
 
 <p>I am a passionate 21 year old girl Frontend Developer and UI/UX Designer from Iraq, with a keen eye for creating visually appealing and user-friendly digital experiences. </p>
   
@@ -15,6 +8,7 @@
 <p>Fun facts about me:</p>
 <ul>
   <li>I love cats</li>
+  <li>My faivorate food is hamburger </li>
   <li>I like watching anime</li>
 </ul> 
 
