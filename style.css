@@ -1,0 +1,73 @@
+* {
+  color: aliceblue;
+  font-family: "Indie Flower", cursive;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  margin: 0;
+
+  background-color: #ffadad;
+}
+
+.main {
+  text-align: center;
+  padding: 20px;
+  background-color: #fff0f5;
+  border-radius: 16px;
+  position: relative;
+  width: 340px;
+}
+.main-text {
+  color: #ff6666;
+}
+
+.form {
+  position: relative;
+  width: 200px;
+  height: 50px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+/* YES Button */
+.yes-btn {
+  background-color: #90ee90;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+/* YES Hover */
+.yes-btn:hover {
+  background-color: #32cd32;
+  transform: scale(1.1);
+}
+
+/* NO Button */
+.No-btn {
+  background-color: #c45161;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  position: absolute;
+  left: 110px;
+  top: 0;
+
+  transition: top 0.1s, left 0.1s;
+  z-index: 10;
+}
+
+/* Cat Image */
+.img img {
+  width: 150px;
+  margin-top: 40px;
+}
